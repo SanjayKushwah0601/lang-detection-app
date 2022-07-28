@@ -83,3 +83,4 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.0
 wheel==0.37.1
+gunicorn
